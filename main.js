@@ -2,7 +2,6 @@
 let expenseList = document.querySelector(".expenseList");
 let addBtn = document.getElementById("addBtn");
 let input = document.getElementById("inputField");
-let parser = new DOMParser();
 
 // Variaveis auxiliares
 let expense;
